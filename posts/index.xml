@@ -20,17 +20,5 @@
 ]]></content>
         </item>
         
-        <item>
-            <title>test</title>
-            <link>https://miidas.github.io/blog/posts/test/</link>
-            <pubDate>Tue, 30 Jun 2020 14:20:00 +0900</pubDate>
-            
-            <guid>https://miidas.github.io/blog/posts/test/</guid>
-            <description>Test てすと記事ですよ!!!</description>
-            <content type="html"><![CDATA[<h1 id="test">Test</h1>
-<p>てすと記事ですよ!!!</p>
-]]></content>
-        </item>
-        
     </channel>
 </rss>
